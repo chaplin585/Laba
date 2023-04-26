@@ -4,8 +4,7 @@
 #include <iostream>
 
 int main() {
-    
-    
+    sc_memoryInit();   
 
     return 0;
 }

@@ -4,6 +4,7 @@ int sc_memoryInit() {
     for (int i = 0; i <= memory_size; ++i) {
         sc_memory[i] = 0;
     }
+    cout<<"a"<<endl;
     return 0;
 
 }
